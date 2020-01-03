@@ -28,7 +28,7 @@ void liczby_od1_do10()
 //Adam
 void wysw_imienia()
 {
-    system("clear");//konflikt ci zrobiam
+    system("clear");//konflikt ci zrobiłam
 
 }
 int main()
