@@ -17,7 +17,7 @@ void losowe_liczby()
 void liczby_od1_do10()
 {
     int i;
-    for ()
+    for (i=0;i)
     system("clear");
 }
 
