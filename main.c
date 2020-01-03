@@ -16,6 +16,8 @@ void losowe_liczby()
 //Ania
 void liczby_od1_do10()
 {
+    int i;
+    for ()
     system("clear");
 }
 
